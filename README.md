@@ -59,6 +59,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+   ![REACT](https://img.shields.io/badge/REACT%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
 <br>
 
