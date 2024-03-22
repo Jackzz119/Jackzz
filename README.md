@@ -21,19 +21,11 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Jack Zheng, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
-
-- Currently, I am pursuing a Job as a Frontend Developer, I am also learning and expanding my knowledge in software development.
+- Hello, and welcome to my GitHub profile! My name is Cheng Zheng, I am a technical artist and front-end engineer dedicated to game development, skilled in UI design, 3D modeling, and graphics programming. My goal is to create captivating virtual worlds for players to explore.
 
 - As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
 
--  Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript.
-
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
-
-- I encourage you to take a look at some of my works where I have completed several design challenges to showcase my abilities.
-
-- My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
 
 - I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:jackzhenghw@gmail.com">jackzhenghw@gmail.com</a>
 
@@ -50,8 +42,9 @@
 
 - **Languages**:
 
+    ![C++](https://img.shields.io/badge/C++%20-%23F7DF1E.svg?style=for-the-badge&logo=C++&logoColor=black)&nbsp;
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
+    
 
 <br>   
     
